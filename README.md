@@ -8,3 +8,4 @@ This is an application that a user can use to Locate new interesting Breweries b
 1. The user should be able to Filter by type of Brewery
 1. The user should be able to Schedule an Event on Google Calendar to visit a selected brewery
 1. The user should be able to Plot a google maps route to the Brewery
+1. The user should be able to Visit the Brewries Home Page 
